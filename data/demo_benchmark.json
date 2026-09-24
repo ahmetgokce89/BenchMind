@@ -1,0 +1,322 @@
+{
+  "research_date": "2026-09-09",
+  "industry": "AI toplantı asistanları",
+  "target_company": "Fathom",
+  "executive_summary": "Bu snapshot'ta Fathom; bireysel kullanıcı değeri, gelişmiş özetler ve müşteri memnuniyetinde lider. Fireflies.ai en geniş dil ve workflow yaklaşımına sahipken Otter.ai, canlı ve ortak çalışmaya dayalı transcription konusunda güçlüdür. MeetGeek ise toplantı analytics'i ve automation özellikleriyle farklılaşır. Fathom'ın en belirgin büyüme fırsatı, ekip ve multilingual değerini çok beğenilen bireysel kullanıcı deneyimi kadar görünür hâle getirmektir.",
+  "companies": [
+    {
+      "name": "Fathom",
+      "website": "https://www.fathom.ai/",
+      "pricing": "Bireysel kullanıcılar için ücretsiz; Premium yıllık ödemede $16/kullanıcı/ay; Team $15/kullanıcı/ay; Business $25/kullanıcı/ay.",
+      "free_plan": "Sınırsız kayıt, transcription, depolama, anlık özet, clip, playlist ve arama sunar; bazı gelişmiş AI özellikleri sınırlıdır.",
+      "target_customer": "Bireysel kullanıcılar, müşteriyle çalışan ekipler, satış ekipleri ve otomatik toplantı çıktılarıyla CRM workflow'ları isteyen kuruluşlar.",
+      "key_strength": "Cömert bireysel ücretsiz tier; çok beğenilen özetler ve kullanım kolaylığıyla birleşiyor.",
+      "key_limitation": "Review temalarında bot'un toplantıda bulunması, auto-join davranışı ve kayıt yönetimindeki zorluklar belirtiliyor.",
+      "scores": {
+        "pricing_value": 9.5,
+        "platform_support": 8.7,
+        "transcription_languages": 8.0,
+        "ai_summaries": 9.5,
+        "integrations": 8.8,
+        "team_security": 8.6,
+        "customer_sentiment": 9.7
+      }
+    },
+    {
+      "name": "Fireflies.ai",
+      "website": "https://fireflies.ai/",
+      "pricing": "Ücretsiz; Pro yıllık ödemede $10/seat/ay; Business $19/seat/ay; Enterprise $39/seat/ay. Gelişmiş AI credit'leri ayrıca satın alınabilir.",
+      "free_plan": "Sınırsız transcription ve AI özeti, sınırlı ekip depolaması ve başlangıç düzeyinde AI credit hakkı sunar.",
+      "target_customer": "Multilingual kayıt, conversation intelligence, integration ve workflow automation ihtiyacı olan bireysel kullanıcılardan enterprise ekiplere kadar geniş bir kitle.",
+      "key_strength": "Geniş platform kapsamı, 100'den fazla transcription dili, kapsamlı integration'lar ve gelişmiş conversation intelligence.",
+      "key_limitation": "Pakete dâhil özetlerle credit üzerinden ölçülen gelişmiş AI özellikleri arasındaki ayrım, paket yapısını karmaşıklaştırıyor.",
+      "scores": {
+        "pricing_value": 8.6,
+        "platform_support": 9.4,
+        "transcription_languages": 9.7,
+        "ai_summaries": 9.0,
+        "integrations": 9.5,
+        "team_security": 9.2,
+        "customer_sentiment": 8.8
+      }
+    },
+    {
+      "name": "Otter.ai",
+      "website": "https://otter.ai/",
+      "pricing": "Basic ücretsiz; Pro yıllık ödemede $8.49/kullanıcı/ay; Business başlangıç fiyatı $24/kullanıcı/ay; Enterprise özel fiyatlandırma.",
+      "free_plan": "Ayda 300 dakika transcription, live transcription, AI Chat, kullanım süresi boyunca üç dosya import hakkı ve son 25 toplantı için depolama sunar.",
+      "target_customer": "Live transcription'a, paylaşılan notlara, aranabilir görüşmelere ve toplantı workflow'larına öncelik veren bireyler ve ekipler.",
+      "key_strength": "Erişilebilir ücretli başlangıç seçeneğiyle gelişmiş real-time transcription ve ortak not alma deneyimi.",
+      "key_limitation": "Ücretsiz plan sınırları ile aksan, arka plan gürültüsü ve konuşmacı tanıma hakkındaki review temaları tutarlılığı azaltıyor.",
+      "scores": {
+        "pricing_value": 8.7,
+        "platform_support": 8.7,
+        "transcription_languages": 7.6,
+        "ai_summaries": 8.5,
+        "integrations": 8.2,
+        "team_security": 8.8,
+        "customer_sentiment": 8.3
+      }
+    },
+    {
+      "name": "MeetGeek",
+      "website": "https://meetgeek.ai/",
+      "pricing": "Basic ücretsiz; Pro yıllık ödemede $9.99/kullanıcı/ay; Business $17/kullanıcı/ay; Enterprise özel fiyatlandırma.",
+      "free_plan": "Ayda üç saat kayıt, temel AI özetleri, ana integration'lar ve sınırlı retention sunar.",
+      "target_customer": "Toplantı analytics'i, yeniden kullanılabilir template'ler, workflow automation ve aranabilir toplantı bilgisi arayan profesyoneller ve ekipler.",
+      "key_strength": "Güçlü toplantı analytics'i, 100'den fazla dil positioning'i, AI Chat, template'ler ve kapsamlı automation.",
+      "key_limitation": "Ücretsiz transcription hakkı dardır; review'larda zaman zaman context, çeviri ve konuşmacı attribution sorunları belirtiliyor.",
+      "scores": {
+        "pricing_value": 8.8,
+        "platform_support": 9.0,
+        "transcription_languages": 9.4,
+        "ai_summaries": 9.0,
+        "integrations": 9.1,
+        "team_security": 9.0,
+        "customer_sentiment": 8.6
+      }
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "company": "Fathom",
+      "category": "Fiyatlandırma ve değer",
+      "statement": "Fathom, bireysel ücretsiz planında sınırsız kayıt, transcription ve depolama sunuyor.",
+      "evidence_type": "Verified fact",
+      "source_ids": ["S01"]
+    },
+    {
+      "id": "F02",
+      "company": "Fathom",
+      "category": "Müşteri görüşleri",
+      "statement": "G2'nin review özeti; doğru özetleri, kullanım kolaylığını ve toplantıya daha iyi odaklanmayı tekrarlanan güçlü yönler olarak gösteriyor.",
+      "evidence_type": "Customer opinion",
+      "source_ids": ["S02"]
+    },
+    {
+      "id": "F03",
+      "company": "Fathom",
+      "category": "Müşteri görüşleri",
+      "statement": "G2 review temalarında ayrıca dikkat dağıtan bot varlığı, auto-join davranışı ve kayıt yönetimi sorunları belirtiliyor.",
+      "evidence_type": "Customer opinion",
+      "source_ids": ["S02"]
+    },
+    {
+      "id": "F04",
+      "company": "Fireflies.ai",
+      "category": "Transcription ve dil desteği",
+      "statement": "Fireflies.ai, 100'den fazla dilde transcription ile Zoom, Google Meet, Microsoft Teams ve diğer platformlar için destek sunduğunu belirtiyor.",
+      "evidence_type": "Verified fact",
+      "source_ids": ["S03"]
+    },
+    {
+      "id": "F05",
+      "company": "Fireflies.ai",
+      "category": "Fiyatlandırma ve değer",
+      "statement": "Fireflies.ai, gelişmiş AI özelliklerinin kullanımını AI credit sistemine ayırıyor ve ek credit'leri ücretli add-on olarak satıyor.",
+      "evidence_type": "Verified fact",
+      "source_ids": ["S03", "S04"]
+    },
+    {
+      "id": "F06",
+      "company": "Fireflies.ai",
+      "category": "Müşteri görüşleri",
+      "statement": "G2 review temalarında transcription, özetler ve zaman tasarrufu övülürken zaman zaman görülen hatalardan, navigation zorluklarından ve gizlilik endişelerinden söz ediliyor.",
+      "evidence_type": "Customer opinion",
+      "source_ids": ["S05"]
+    },
+    {
+      "id": "F07",
+      "company": "Otter.ai",
+      "category": "Fiyatlandırma ve değer",
+      "statement": "Otter'ın Basic planı ayda 300 dakika transcription içerirken Pro planı 1.200 dakika uygulama içi kayıt sunuyor.",
+      "evidence_type": "Verified fact",
+      "source_ids": ["S06"]
+    },
+    {
+      "id": "F08",
+      "company": "Otter.ai",
+      "category": "Müşteri görüşleri",
+      "statement": "G2 review temalarında Otter'ın kullanım kolaylığı ve real-time notları beğenilirken aksanlar, arka plan gürültüsü ve konuşmacı tanıma tekrarlanan sınırlamalar olarak öne çıkıyor.",
+      "evidence_type": "Customer opinion",
+      "source_ids": ["S07"]
+    },
+    {
+      "id": "F09",
+      "company": "MeetGeek",
+      "category": "AI özetleri ve action item'lar",
+      "statement": "MeetGeek; AI Chat, Pro planda 30'dan fazla özet template'i, toplantı analytics'i ve workflow automation sunduğunu belirtiyor.",
+      "evidence_type": "Verified fact",
+      "source_ids": ["S08"]
+    },
+    {
+      "id": "F10",
+      "company": "MeetGeek",
+      "category": "Müşteri görüşleri",
+      "statement": "G2 review temalarında zahmetsiz özetler ve kullanılabilirlik övülürken zaman zaman context, çeviri ve konuşmacı attribution hataları belirtiliyor.",
+      "evidence_type": "Customer opinion",
+      "source_ids": ["S09"]
+    },
+    {
+      "id": "F11",
+      "company": "Fathom",
+      "category": "Strateji",
+      "statement": "Fathom, multilingual yeterliliğine ilişkin kanıtları ve ekip yönetimi değerini ürün messaging'inde daha görünür kılarak bireysel kullanıcı liderliğini koruyabilir.",
+      "evidence_type": "AI inference",
+      "source_ids": ["S01", "S03", "S08"]
+    }
+  ],
+  "conflicts": [
+    {
+      "topic": "Fireflies.ai AI kullanım paketleri",
+      "description": "Fiyatlandırma sayfasında sınırsız AI özeti sunulduğu belirtilirken ayrı dokümantasyonda gelişmiş AI özelliklerinin credit tükettiği açıklanıyor. Satın alacak kişiler, hangi işlemlerin sınırsız ve hangilerinin credit üzerinden ölçüldüğü konusunda açıklamaya ihtiyaç duyabilir.",
+      "source_ids": ["S03", "S04"]
+    }
+  ],
+  "swot": {
+    "strengths": [
+      {
+        "statement": "Sınırsız temel kayıt ve depolama içeren cömert bireysel ücretsiz plan.",
+        "evidence_type": "Verified fact",
+        "source_ids": ["S01"]
+      },
+      {
+        "statement": "Özetler, doğruluk ve kullanım kolaylığı konusunda güçlü müşteri memnuniyeti.",
+        "evidence_type": "Customer opinion",
+        "source_ids": ["S02"]
+      }
+    ],
+    "weaknesses": [
+      {
+        "statement": "Bot'un toplantıda bulunması ve auto-recording davranışı, toplantı yönetiminde zorluk yaratabilir.",
+        "evidence_type": "Customer opinion",
+        "source_ids": ["S02"]
+      },
+      {
+        "statement": "Rakipler daha geniş multilingual kapsamlarını daha belirgin biçimde iletiyor.",
+        "evidence_type": "AI inference",
+        "source_ids": ["S01", "S03", "S08"]
+      }
+    ],
+    "opportunities": [
+      {
+        "statement": "Çok beğenilen bireysel deneyimi satış ve customer success için daha anlaşılır, rol bazlı ekip workflow'ları hâlinde paketlemek.",
+        "evidence_type": "AI inference",
+        "source_ids": ["S01", "S02"]
+      },
+      {
+        "statement": "Bot-free kaydı ve AI-to-CRM çıktılarını rakiplere yönelik landing page'lerde temel farklılaştırıcılar hâline getirmek.",
+        "evidence_type": "AI inference",
+        "source_ids": ["S01"]
+      }
+    ],
+    "threats": [
+      {
+        "statement": "Fireflies.ai ve MeetGeek; dil çeşitliliği, analytics ve automation kapsamı etrafında güçlü bir positioning sergiliyor.",
+        "evidence_type": "AI inference",
+        "source_ids": ["S03", "S08"]
+      },
+      {
+        "statement": "Bu kategoride fiyatlandırma ve özellik paketleri hızla değişerek tarihi belirtilmemiş karşılaştırma iddialarını zayıflatıyor.",
+        "evidence_type": "AI inference",
+        "source_ids": ["S01", "S03", "S06", "S08"]
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "title": "Sürtünmesiz bireysel başlangıç alanını sahiplenin",
+      "priority": "High",
+      "statement": "Karşılaştırma sayfalarında sınırsız ücretsiz kayıt ve hızlı time-to-value mesajını öne çıkarın; ardından bireysel kullanımdan ekip workflow'larına geçiş için basit bir yol gösterin.",
+      "evidence_type": "AI inference",
+      "source_ids": ["S01", "S02"]
+    },
+    {
+      "title": "Toplantı görgü kurallarını ürün avantajına dönüştürün",
+      "priority": "High",
+      "statement": "Tekrarlanan toplantı yönetimi endişelerini gidermek için bot-free kaydı, onay kontrollerini ve auto-join görünürlüğünü iyileştirip açıkça anlatın.",
+      "evidence_type": "AI inference",
+      "source_ids": ["S01", "S02"]
+    },
+    {
+      "title": "Multilingual yeterlilik kanıtı sayfası yayımlayın",
+      "priority": "Medium",
+      "statement": "Rakiplerin öne çıkan 100'den fazla dil iddiasına karşı tekrarlanabilir dil ve transcription benchmark'ları kullanın.",
+      "evidence_type": "AI inference",
+      "source_ids": ["S01", "S03", "S08"]
+    },
+    {
+      "title": "Ekip ROI'ını role göre netleştirin",
+      "priority": "Medium",
+      "statement": "Özetleri ölçülebilir follow-up işleriyle ilişkilendiren satış, customer success, işe alım ve product research görünümleri oluşturun.",
+      "evidence_type": "AI inference",
+      "source_ids": ["S01"]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Fathom fiyatlandırma ve özellik karşılaştırması",
+      "publisher": "Fathom",
+      "source_type": "Resmî fiyatlandırma/dokümantasyon",
+      "url": "https://www.fathom.ai/pricing"
+    },
+    {
+      "id": "S02",
+      "title": "Fathom'ın artıları ve eksileri",
+      "publisher": "G2",
+      "source_type": "Review platform'u",
+      "url": "https://www.g2.com/products/fathom-video/reviews?qs=pros-and-cons"
+    },
+    {
+      "id": "S03",
+      "title": "Fireflies.ai fiyatlandırma ve özellik karşılaştırması",
+      "publisher": "Fireflies.ai",
+      "source_type": "Resmî fiyatlandırma/dokümantasyon",
+      "url": "https://fireflies.ai/pricing"
+    },
+    {
+      "id": "S04",
+      "title": "AI Credits fiyatlandırması ve genel bakış",
+      "publisher": "Fireflies.ai",
+      "source_type": "Resmî dokümantasyon",
+      "url": "https://guide.fireflies.ai/articles/2114151875-learn-about-ai-credits"
+    },
+    {
+      "id": "S05",
+      "title": "Fireflies.ai'ın artıları ve eksileri",
+      "publisher": "G2",
+      "source_type": "Review platform'u",
+      "url": "https://www.g2.com/products/fireflies-ai/reviews?qs=pros-and-cons"
+    },
+    {
+      "id": "S06",
+      "title": "Otter.ai fiyatlandırma ve özellik karşılaştırması",
+      "publisher": "Otter.ai",
+      "source_type": "Resmî fiyatlandırma/dokümantasyon",
+      "url": "https://otter.ai/pricing"
+    },
+    {
+      "id": "S07",
+      "title": "Otter.ai'ın artıları ve eksileri",
+      "publisher": "G2",
+      "source_type": "Review platform'u",
+      "url": "https://www.g2.com/products/otter-ai/reviews?qs=pros-and-cons"
+    },
+    {
+      "id": "S08",
+      "title": "MeetGeek ürün ve fiyatlandırma genel bakışı",
+      "publisher": "MeetGeek",
+      "source_type": "Resmî fiyatlandırma/dokümantasyon",
+      "url": "https://meetgeek.ai/"
+    },
+    {
+      "id": "S09",
+      "title": "MeetGeek'in artıları ve eksileri",
+      "publisher": "G2",
+      "source_type": "Review platform'u",
+      "url": "https://www.g2.com/products/meetgeek/reviews?qs=pros-and-cons"
+    }
+  ]
+}

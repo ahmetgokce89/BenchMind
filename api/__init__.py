@@ -1,0 +1,1 @@
+"""BenchMind FastAPI backend package."""

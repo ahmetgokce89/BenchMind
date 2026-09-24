@@ -1,0 +1,12 @@
+.env
+.git
+.github
+.venv
+.benchmind
+.streamlit/secrets.toml
+__pycache__
+*.pyc
+*.log
+*.zip
+.pytest_cache
+.vscode
