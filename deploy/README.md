@@ -126,8 +126,8 @@ instance and ports 80/443 are reachable.
 Install a GitHub Actions self-hosted runner from the private repository's
 **Settings > Actions > Runners > New self-hosted runner** page. Run the commands
 shown there as the same non-root Linux user that owns `/opt/benchmind` and can
-run Docker. Add the custom label `benchmind-prod` during configuration, then
-install and start it as a service using the generated `svc.sh` commands.
+run Docker. Install and start it as a service using the generated `svc.sh`
+commands. The repository-level runner's default Linux and x64 labels are used.
 
 The workflow in `.github/workflows/deploy.yml` first runs the test suite on a
 GitHub-hosted runner. If tests pass, the Lightsail runner executes
